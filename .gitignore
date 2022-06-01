@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+data/
+docs/
+figures/
+src/.ipynb_checkpoints/
